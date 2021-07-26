@@ -1,0 +1,16 @@
+.asos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}.asos h1 { text-align: center; }
+.product {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #eee;
+}
+img:hover { cursor: pointer; }
+h4.product-name {
+    margin-bottom: -10px;
+}
